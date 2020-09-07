@@ -1,0 +1,24 @@
+{"level":"info","message":"Test message, pls ignore.","service":"user-service"}
+{"level":"info","message":"Starting up now asdf...","service":"user-service"}
+{"level":"info","message":"Starting up now asdf...","service":"spamilton"}
+{"level":"info","message":"Starting up now asdf...","service":"spamilton"}
+{"level":"info","message":"Test message, pls ignore.","service":"spamilton"}
+{"level":"error","message":"ERROR No: 5","service":"spamilton"}
+undefined
+undefined
+undefined
+{"level":"info","message":"Starting up now asdf...","service":"spamilton"}
+{"level":"info","message":"Test message, pls ignore.","service":"spamilton"}
+{"level":"error","message":"ERROR No: 5","service":"spamilton"}
+{"level":"info","message":"Test message, pls ignore.","service":"spamilton"}
+{"level":"error","message":"ERROR No: 5","service":"spamilton"}
+{"level":"info","message":"Test message, pls ignore.","service":"spamilton"}
+{"level":"error","message":"ERROR No: 5","service":"spamilton"}
+{"level":"info","message":"Test message, pls ignore.","service":"spamilton"}
+{"level":"error","message":"ERROR No: 5","service":"spamilton"}
+{"level":"info","message":"Test message, pls ignore.","service":"spamilton"}
+{"level":"error","message":"ERROR No: 5","service":"spamilton"}
+{"level":"info","message":"Test message, pls ignore.","service":"spamilton"}
+{"level":"error","message":"ERROR No: 5","service":"spamilton"}
+{"level":"info","message":"Test message, pls ignore.","service":"spamilton"}
+{"level":"error","message":"ERROR No: 5","service":"spamilton"}
